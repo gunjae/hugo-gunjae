@@ -6,10 +6,13 @@ widget: pages
 # This file represents a page section.
 headless: true
 
+# Acitivity on/off
+active: true
+
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
+title: News
 subtitle:
 
 content:
@@ -37,5 +40,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 1
 ---
